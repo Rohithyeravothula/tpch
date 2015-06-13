@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /home/rohith/Desktop/tpch1_test/target/scala-2.10/csv_to_json_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	queryone$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohith/Desktop/tpch1_test/target/scala-2.10/classes/queryone$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	Line$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohith/Desktop/tpch1_test/target/scala-2.10/classes/Line$.class[0m
+[0m[[0mdebug[0m] [0m	queryone$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohith/Desktop/tpch1_test/target/scala-2.10/classes/queryone$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	queryone$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohith/Desktop/tpch1_test/target/scala-2.10/classes/queryone$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Line.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohith/Desktop/tpch1_test/target/scala-2.10/classes/Line.class[0m
+[0m[[0mdebug[0m] [0m	queryone$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohith/Desktop/tpch1_test/target/scala-2.10/classes/queryone$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	queryone$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohith/Desktop/tpch1_test/target/scala-2.10/classes/queryone$.class[0m
+[0m[[0mdebug[0m] [0m	queryone.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohith/Desktop/tpch1_test/target/scala-2.10/classes/queryone.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
